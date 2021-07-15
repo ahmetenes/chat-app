@@ -1,0 +1,24 @@
+#sidebar-container{
+    display:flex;
+    flex-direction:column;
+    background-color:#4B154B;
+    min-width:250px;
+    color:#988A99;
+    font-size: 13px;
+    font-weight: bold;
+    
+}   
+
+
+#notifications{
+    display:flex;
+    flex-direction:column;
+    border-bottom: 1px solid #532753;
+}
+
+#rooms{
+    display:flex;
+    flex-direction:column;
+    border-bottom: 1px solid #532753;
+}
+

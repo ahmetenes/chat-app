@@ -1,0 +1,6 @@
+.chat-container{
+    background-color: white;
+    display: grid;
+    grid-template-rows: min-content auto min-content;
+    
+}
